@@ -8,4 +8,4 @@ How to build
 - Start Visual Studio 2019
 - Open the project
 - Open the Package Manager Console
-- Type : Install-Package cpprestsdk_x64_2_10_18 -Source "<VCPKG directory>"
+- Type : Install-Package cpprestsdk_x64_2_10_18 -Source "VCPKG directory"
